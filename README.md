@@ -51,7 +51,7 @@
 
 - Below diagram shows the final rank I obtained
 
-![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+![final rank](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/final%20rank.png)
 
 
 ## Notebooks:
