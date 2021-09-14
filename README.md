@@ -57,4 +57,4 @@
 ## Notebooks:
 
 - [Data visualization, data preprocessing and feature engineering]()
-- [Model selection, training and evaluation]()
+- [Model selection, training and evaluation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/Training_and_Evaluation.ipynb)
