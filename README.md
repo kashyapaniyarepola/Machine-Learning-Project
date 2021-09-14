@@ -26,7 +26,7 @@
  
  - ***installer*** column contains lots of *NaN* and *0* values. First replaced them with *Unknown* value. After looking at the data, I realized that there are splling mistakes (eg- trere are values called District Council and District council). Then I corrected those spelling mistakes. Below diagram shows how ***installer_cat*** correlated with target values.
 
-![installer_cat and target values](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%201%20-%20dacade%20and%20target%20value.png)
+![installer_cat and target values](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%202%20-%20installer_cat%20vs%20target%20valu.png)
 
 - To ease of encoding, I created new feature called ***installee_cat*** by collecting ***installer*** and named *other* for value clounts contain less than *400*. In this case I only have 17 unique ***installer_cat*** values.
 - Since ***funder*** conatains *NaN* and *0* values, I replaced them with *Unknown* value. This column contains thousands of differnt categorical values. So, I selected most common 20 values for encoding and added to a new fearture called ***funder_cat***. Below diagram shows how ***funder_cat*** correlated with target.
