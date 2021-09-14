@@ -12,7 +12,12 @@
 - ***payment_type*** and ***payment*** conatin same values so, ***payment*** column is dropped.
 - ***extraction_type_group***, ***extraction_type_class*** and ***extraction_type*** conatain same values and ***extraction_type_class*** contain less details so, ***extraction_type_class*** and ***extraction_type*** are dropped. 
 - Since ***waterpoint_type_group*** and ***waterpoint_type*** contain same information, ***waterpoint_type_group*** is dropped.
-- 
+
+###### Handling Missing Values and Incomplete Values
+
+- Majority values of ***construction_year*** contains 0 value. To handled that, first I created new feature called ***decade*** which categorized years according to dacedes. Then replaces 0 value in ***construction_year*** to mean value(i.e. 2000). Below diagram shows how ***dacade*** correlated with target values.
+ 
+ ![dacade and target values]()
 
 ## Notebooks:
 
