@@ -47,7 +47,7 @@
 
 - In the Pump it Up: Data Mining the Water Table challenge, I scored ***0.8183*** as my final result and ranked as the 1364. Below diagram shows the submission details
 
-![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+![proof of submission](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/proof%20of%20submission.png)
 
 - Below diagram shows the final rank I obtained
 
