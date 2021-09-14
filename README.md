@@ -37,6 +37,22 @@
 - In ***population***, I replaced *0* value with its mean (i.e. *281*). 
 - ***public_meeting*** and ***permit*** columns contain null values. So, I replaced them with their most common values.
 
+###### Model Selection and Validation
+
+- After converting target in to ternary values,  I used *Random Forest Classifier* to train and below are the cross validation results.
+
+![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+
+###### Submission and Final Rank
+
+- In the Pump it Up: Data Mining the Water Table challenge, I scored ***0.8183*** as my final result and ranked as the 1364. Below diagram shows the submission details
+
+![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+
+- Below diagram shows the final rank I obtained
+
+![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+
 
 ## Notebooks:
 
