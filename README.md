@@ -41,7 +41,7 @@
 
 - After converting target in to ternary values,  I used *Random Forest Classifier* to train and below are the cross validation results.
 
-![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
+![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/cross%20val%20results.png)
 
 ###### Submission and Final Rank
 
@@ -56,6 +56,5 @@
 
 ## Notebooks:
 
-Data visualization, data preprocessing and feature engineering can be found in:
-
-Model selection, training and evaluation can be found in:
+- [Data visualization, data preprocessing and feature engineering]()
+- [Model selection, training and evaluation]()
