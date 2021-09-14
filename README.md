@@ -31,7 +31,7 @@
 - To ease of encoding, I created new feature called ***installee_cat*** by collecting ***installer*** and named *other* for value clounts contain less than *400*. In this case I only have 17 unique ***installer_cat*** values.
 - Since ***funder*** conatains *NaN* and *0* values, I replaced them with *Unknown* value. This column contains thousands of differnt categorical values. So, I selected most common 20 values for encoding and added to a new fearture called ***funder_cat***. Below diagram shows how ***funder_cat*** correlated with target.
 
-![funder_cat and target values](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%201%20-%20dacade%20and%20target%20value.png)
+![funder_cat and target values](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/diagram%203%20-%20funder_cat%20vs%20target%20values.png)
 
 - In ***longitude***, there are *0* values so I replaced mean(i.e. *35.15*) with them.
 - In ***population***, I replaced *0* value with its mean (i.e. *281*). 
