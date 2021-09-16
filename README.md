@@ -51,7 +51,7 @@
 
 - Below diagram shows the final rank I obtained
 
-![final rank](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/final%20rank.png)
+![final rank](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/final%20rank_xgboost.png)
 
 
 ## Notebooks:
