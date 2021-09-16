@@ -39,13 +39,13 @@
 
 ###### Model Selection and Validation
 
-- After converting target in to ternary values,  I used *Random Forest Classifier* and *XGBClassifier* to train and *XGBClassifier* better score. Below are the cross validation results for *Random Forest Classifier*.
+- After converting target in to ternary values,  I used *Random Forest Classifier* and *XGBClassifier* to train and *XGBClassifier* provided better score. Below are the cross validation results for *Random Forest Classifier*.
 
 ![cross validation](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/cross%20val%20results.png)
 
 ###### Submission and Final Rank
 
-- In the Pump it Up: Data Mining the Water Table challenge, I scored ***0.8200*** as my final result and ranked as the 1135. Below diagram shows the submission details
+- In the Pump it Up: Data Mining the Water Table challenge, I scored ***0.8200*** as my final result and ranked as the ***1135***. Below diagram shows the submission details
 
 ![proof of submission](https://github.com/kashyapaniyarepola/Machine-Learning-Project/blob/main/proof%20of%20submission.png)
 
